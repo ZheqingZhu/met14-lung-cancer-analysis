@@ -1,0 +1,85 @@
+{
+  "key_point_coordinates": [
+    [
+      686,
+      228
+    ],
+    [
+      752,
+      276
+    ],
+    [
+      1456,
+      330
+    ],
+    [
+      1483,
+      432
+    ],
+    [
+      1595,
+      488
+    ],
+    [
+      1645,
+      540
+    ],
+    [
+      1984,
+      597
+    ],
+    [
+      2107,
+      703
+    ],
+    [
+      2502,
+      703
+    ]
+  ],
+  "censoring_time_coordinates": [
+    [
+      1958,
+      540
+    ],
+    [
+      2021,
+      597
+    ],
+    [
+      2014,
+      597
+    ],
+    [
+      2113,
+      703
+    ],
+    [
+      2161,
+      703
+    ],
+    [
+      2491,
+      703
+    ],
+    [
+      1995,
+      597
+    ]
+  ],
+  "coordinate_origin": {
+    "x": 403,
+    "y": 1004
+  },
+  "axis_limit_coordinates": {
+    "x": 2246,
+    "y": 124
+  },
+  "time_axis_max_scale": "24",
+  "group_name": "2023伯瑞复治os",
+  "at_risk_time_interval": "2",
+  "at_risk_numbers": "17 17 15 14 14 14 14 13 10 9 9 4 1",
+  "sample_size": "17",
+  "number_of_events": "0",
+  "canvas_width": 2856,
+  "canvas_height": 1401}

@@ -1,0 +1,85 @@
+{
+  "key_point_coordinates": [
+    [
+      625,
+      181
+    ],
+    [
+      632,
+      226
+    ],
+    [
+      702,
+      335
+    ],
+    [
+      765,
+      386
+    ],
+    [
+      913,
+      436
+    ],
+    [
+      921,
+      490
+    ],
+    [
+      925,
+      540
+    ],
+    [
+      1029,
+      592
+    ],
+    [
+      1547,
+      644
+    ],
+    [
+      1721,
+      696
+    ],
+    [
+      1830,
+      749
+    ],
+    [
+      2051,
+      813
+    ],
+    [
+      2059,
+      916
+    ],
+    [
+      2214,
+      1007
+    ]
+  ],
+  "censoring_time_coordinates": [
+    [
+      2045,
+      749
+    ],
+    [
+      2054,
+      813
+    ]
+  ],
+  "coordinate_origin": {
+    "x": 395,
+    "y": 1010
+  },
+  "axis_limit_coordinates": {
+    "x": 2361,
+    "y": 125
+  },
+  "time_axis_max_scale": "24",
+  "group_name": "2023伯瑞复治pfs1",
+  "at_risk_time_interval": "2",
+  "at_risk_numbers": "17 17 13 12 8 8 8 8 7 5 5 1 0",
+  "sample_size": "17",
+  "number_of_events": "0",
+  "canvas_width": 2856,
+  "canvas_height": 1401}
